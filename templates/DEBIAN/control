@@ -4,5 +4,6 @@ Architecture: arch
 Maintainer: wcbing <i@wcbing.top>
 Section: utils
 Priority: optional
+Depends: git
 Homepage: https://github.com/jesseduffield/lazygit
 Description: A simple terminal UI for git commands
