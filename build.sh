@@ -30,7 +30,7 @@ build() {
     mv "$PACKAGE-$1/$PACKAGE" "$BASE_DIR/usr/bin/$PACKAGE"
     chmod 755 "$BASE_DIR/usr/bin/$PACKAGE"
     # Build
-    dpkg-deb --build --root-owner-group "$BASE_DIR"
+    dpkg-deb --build --root-owner-group -Z xz "$BASE_DIR"
 }
 
 for i in $ARCH; do
