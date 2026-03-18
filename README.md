@@ -1,6 +1,6 @@
-自行打包的 [lazygit](https://github.com/jesseduffield/lazygit)，适用于 Debian 或基于 Debian 的发行版。
+自行打包的 [lazygit](https://github.com/jesseduffield/lazygit)，适用于基于 Debian 的发行版。
 
-Self-packaged [lazygit](https://github.com/jesseduffield/lazygit), suitable for Debian and Debian-based distros.
+Self-packaged [lazygit](https://github.com/jesseduffield/lazygit), suitable for Debian-based distro.
 
 
 ## Usage/用法

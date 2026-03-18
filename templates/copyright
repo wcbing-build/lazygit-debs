@@ -1,6 +1,6 @@
 format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: lazygit
-Source: https://github.com/jesseduffield/lazygit/releases
+Source: https://github.com/jesseduffield/lazygit
 
 Files: *
 Copyright: 2018 Jesse Duffield <jesseduffield@gmail.com>
